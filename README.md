@@ -5,8 +5,8 @@
 
 <h2> About Me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;</h2>
 <img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
-- 🔭 I graduated in Computer Engineering from RMUTT
+<!-- 
+- 🔭 I graduated in Computer Engineering from RMUTT -->
   
 - 🌱 I’m currently learning JavaScript, Node.JS, Machine Learning 
   
