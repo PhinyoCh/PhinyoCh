@@ -1,7 +1,4 @@
 <h1 align="center">Hi , I'm Phinyo Chaengchit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+Student;I+have+interest+in;Back-End+Developer;Internet+of+Things;Machine+Learning;&center=true&width=500&height=50"></a>
-</p>
 
 <h2> About Me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;</h2>
 <img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
