@@ -5,9 +5,9 @@
 <!-- 
 - 🔭 I graduated in Computer Engineering from RMUTT -->
   
-- 🌱 I’m currently learning JavaScript, Node.JS, Machine Learning 
+- 🌱 I’m currently learning JavaScript, Node.JS
   
-- 👯 I have interest in Back-End Developer, Internet of Things, Machine Learning
+- 👯 I have interest in Back-End Developer, Full-Stack Developer, Internet of Things
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
